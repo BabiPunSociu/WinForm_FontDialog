@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\bin\Debug\Bai19_FontDialog.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai19_FontDialog\Bai19_FontDialog\obj\Debug\Bai19_FontDialog.pdb
